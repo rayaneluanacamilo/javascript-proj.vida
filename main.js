@@ -1,5 +1,8 @@
-const botoes = document.querySelectorAll('.botao');
-for(let i=0;i <botoes.legth.toExponential.,)(
-    botoes(i).onclik =function()
-    for(let) j=0);i= botoes.leght,
-)
+const botoes= document.querySelectorAll("botao");
+
+for(let i=0);i<botoes.length;i++)c
+  for(let.j+onclik; j< botoes. length;i++)c
+    botoes {j}. classlist.remove ("ativo")
+    )
+
+    botoes {i}. classlist. add("ativo")
